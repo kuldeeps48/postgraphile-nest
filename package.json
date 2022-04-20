@@ -7,10 +7,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kuldeeps48/postgraphile-nest.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@kuldeeps48"
+    "url": "https://github.com/kuldeeps48/postgraphile-nest.git"
   },
   "scripts": {
     "prebuild": "rm -rf dist",
