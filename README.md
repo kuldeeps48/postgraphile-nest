@@ -13,7 +13,7 @@ A module for [Nest](https://github.com/nestjs/nest) that allows you to easily in
 ## Installation
 
 ```bash
-$ npm i --save @kuldeeps48/postgraphile-nest:1.1.1 postgraphile
+$ npm i --save github:@kuldeeps48/postgraphile-nest:1.1.2 postgraphile
 ```
 
 ## Documentation
