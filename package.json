@@ -1,5 +1,5 @@
 {
-  "name": "postgraphile-nest",
+  "name": "@kuldeeps48/postgraphile-nest",
   "version": "1.1.0",
   "description": "Nestjs module for incorporating PostGraphile into your application",
   "author": "Alex Aldana",
